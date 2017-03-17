@@ -15,7 +15,7 @@
     "url": "https://github.com/davidroyer/vue2-editor"
   },
   "licenses": "MIT",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
     "watch": "cross-env NODE_ENV=development webpack --watch --progress --hide-modules",
