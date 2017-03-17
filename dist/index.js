@@ -13768,7 +13768,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     attrs: {
       "id": "quillWrapper"
     }
-  }, [_c('h4', [_vm._v("new from src folder 2")]), _vm._v(" "), _c('div', {
+  }, [_c('h4', [_vm._v("new from src folder 6")]), _vm._v(" "), _c('div', {
     ref: "quillContainer",
     attrs: {
       "id": "quill-container"
