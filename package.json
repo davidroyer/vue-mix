@@ -1,7 +1,20 @@
 {
-  "name": "vue-mix",
-  "version": "1.0.0",
-  "description": "",
+  "name": "vue2-editor",
+  "version": "1.1.2",
+  "description": "HTML editor using Vue.js 2.0 and Quill.js, an open source edtior",
+  "keywords": [
+    "vue",
+    "vue-component",
+    "quill",
+    "html editor",
+    "text editor"
+  ],
+  "author": "David Royer <droyer01@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidroyer/vue2-editor"
+  },
+  "licenses": "MIT",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
